@@ -6,3 +6,10 @@
 
 "Let us cavort like the Greeks of old! You know the ones I mean."
 -Hedonismbot
+
+
+"a few more quotes."
+-daniel
+
+"I'm pretty sure that was me"
+-Travis
